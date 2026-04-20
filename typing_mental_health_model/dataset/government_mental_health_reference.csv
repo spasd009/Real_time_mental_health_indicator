@@ -1,0 +1,4 @@
+indicator,government_pct,source,year
+stress_pct,3.53,NMHS 2015-16 (India) current prevalence for neurotic and stress-related disorders,2016
+anxiety_pct,2.94,NMHS 2016 analysis current prevalence for anxiety disorders (incl. PTSD/OCD),2016
+depression_pct,2.68,NMHS 2016 analysis current prevalence for depressive disorders,2016

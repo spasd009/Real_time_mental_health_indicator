@@ -1,0 +1,4 @@
+metric,label,government_pct,processed_pct,difference_pct_points
+stress_pct,Stress,3.53,54.4446,50.9146
+anxiety_pct,Anxiety,2.94,43.3546,40.4146
+depression_pct,Depression,2.68,44.5267,41.8467

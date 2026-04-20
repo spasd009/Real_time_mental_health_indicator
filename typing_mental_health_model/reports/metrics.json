@@ -1,0 +1,21 @@
+{
+  "dataset_path": "dataset\\synthetic_typing_mental_health.csv",
+  "model_path": "models\\typing_mental_health_pipeline.joblib",
+  "n_rows": 5000,
+  "train_rows": 4000,
+  "test_rows": 1000,
+  "metrics": {
+    "stress_pct": {
+      "rmse": 4.8185,
+      "r2": 0.9543
+    },
+    "anxiety_pct": {
+      "rmse": 4.3164,
+      "r2": 0.9377
+    },
+    "depression_pct": {
+      "rmse": 4.8693,
+      "r2": 0.919
+    }
+  }
+}

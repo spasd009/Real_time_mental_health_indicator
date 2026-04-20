@@ -1,0 +1,18 @@
+{
+  "text": "I am trying to finish everything quickly, but I keep going back to the same lines because I am worried something is wrong.",
+  "avg_dwell_time_ms": 121.0,
+  "avg_flight_time_ms": 136.0,
+  "pause_ratio": 0.24,
+  "backspace_rate": 0.13,
+  "error_rate": 0.11,
+  "correction_latency_ms": 233.0,
+  "words_per_minute": 44.0,
+  "burst_length": 5.5,
+  "session_duration_sec": 1040.0,
+  "late_night_ratio": 0.31,
+  "sentiment_polarity": -0.22,
+  "negation_ratio": 0.07,
+  "uncertainty_ratio": 0.1,
+  "first_person_ratio": 0.08,
+  "lexical_diversity": 0.57
+}
